@@ -2,13 +2,14 @@
   --blue-color: #00acdc;
 }
 
-* {
+ul {
   margin: 0;
   padding: 0;
 }
 
 body {
   margin: 0;
+  padding: 0;
 }
 
 html {
@@ -75,6 +76,4 @@ html {
   margin-left: 0;
 }
 
-.nav__item:last-child .nav__link {
-  margin-right: 0;
-}
+
